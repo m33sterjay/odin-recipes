@@ -5,21 +5,13 @@ h1 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-.gyro,
-.cheese,
-.gma {
+h2 {
     color: rgb(140, 33, 86);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
-
-.gyro {
-    text-align: left;
-}
-
-.cheese {
     text-align: center;
 }
 
-.gma {
-    text-align: right;
+#header {
+    text-align: left;
+    color: black;
 }
