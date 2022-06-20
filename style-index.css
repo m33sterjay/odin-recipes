@@ -1,0 +1,25 @@
+h1 {
+    text-align: center;
+    background-color: rgb(140, 33, 86);
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.gyro,
+.cheese,
+.gma {
+    color: rgb(140, 33, 86);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.gyro {
+    text-align: left;
+}
+
+.cheese {
+    text-align: center;
+}
+
+.gma {
+    text-align: right;
+}
